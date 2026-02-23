@@ -113,7 +113,7 @@
     }
 }
 {
-    let enzo = "Enzo"
+    let enzo = "enzo"
 }
 
 /** Questões 01 a 06
