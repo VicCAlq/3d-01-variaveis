@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "test": "vitest"
+    "test": "vitest run --reporter=json --output-file=./resultado.json"
   },
   "devDependencies": {
     "vite": "^7.3.1",

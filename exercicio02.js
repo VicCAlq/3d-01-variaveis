@@ -65,7 +65,7 @@
  * }
  */
 
-/* REFERÊNCIA PARA OS EXERCÍCIOS ABAIXO  */
+/* REFERÊNCIA PARA AS QUESTÕES ABAIXO  */
 
 {
     let joao = "João"
@@ -116,7 +116,7 @@
     let enzo = "Enzo"
 }
 
-/** Exercícios 01 a 06
+/** Questões 01 a 06
  * No escopo da referência acima, responda as linhas onde as variáveis abaixo
  * deixam de ser acessíveis
  */
@@ -128,23 +128,23 @@
 /* 05: jose */      let escopo05 = 0
 /* 06: belarmino */ let escopo06 = 0
 
-/** Exercícios 07 a 12
+/** Questões 07 a 12
  * No mesmo escopo da referência acima, indique com true (verdadeiro) ou false (falso)
  * para as situações abaixo:
  */
 // Respostas
 /* O escopo de margarida consegue acessar o de joao */
-let escopo 07 = null
+let escopo07 = null
 /* O escopo de enzo consegue acessar o de valentina */
-let escopo 08 = null
+let escopo08 = null
 /* O escopo de valentina consegue acessar o de magda */
-let escopo 09 = null
+let escopo09 = null
 /* O escopo de rosa consegue acessar o de violeta */
-let escopo 10 = null
+let escopo10 = null
 /* O escopo de jaiminho consegue acessar o de joaquim */
-let escopo 11 = null
+let escopo11 = null
 /* O escopo de baltazar consegue acessar o de onofre */
-let escopo 12 = null
+let escopo12 = null
 
 /* NÃO MUDAR NADA DESTA LINHA EM DIANTE */
 export {

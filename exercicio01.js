@@ -28,7 +28,7 @@
  * Agora responda as atividades abaixo
  */
 
-/* Exercícios de 01 a 12
+/* Questões de 01 a 12
  * 
  * Corrija os nomes das variáveis abaixo para se tornarem válidos e/ou respeitarem
  * as boas práticas de nomeação para variáveis (e não liguem para o "export" na frente. Mantenham ele):
@@ -44,6 +44,6 @@
 /* 08 */ export const tom&Jerry = "Tom e Jerry"
 /* 09 */ export const Eh_sobre_isso = "E tá tudo bem"
 /* 10 */ export let meu-endereço = { rua: "Avenida sei lá", numero: 123, bairro: "Rouxinol Goiaba"}
-/* 11 */ export class OperaçãoExplosiva { constructor () }
+/* 11 */ export class OperaçãoExplosiva { constructor () {} }
 /* 12 */ export class Personagem-Fictício { constructor() {} }
 
