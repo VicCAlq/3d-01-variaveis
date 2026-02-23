@@ -121,10 +121,10 @@
  * deixam de ser acessíveis
  */
 // Respostas
-/* 01: margarida */ let escopo01 = 0
-/* 02: jaiminho */  let escopo02 = 0
-/* 03: valentina */ let escopo03 = 0
-/* 04: maria */     let escopo04 = 0
+/* 01: margarida */ let escopo01 = 3
+/* 02: jaiminho */  let escopo02 = 3
+/* 03: valentina */ let escopo03 = 1
+/* 04: maria */     let escopo04 = 2
 /* 05: jose */      let escopo05 = 0
 /* 06: belarmino */ let escopo06 = 0
 
@@ -134,9 +134,9 @@
  */
 // Respostas
 /* O escopo de margarida consegue acessar o de joao */
-let escopo07 = null
+let escopo07 = true
 /* O escopo de enzo consegue acessar o de valentina */
-let escopo08 = null
+let escopo08 = false
 /* O escopo de valentina consegue acessar o de magda */
 let escopo09 = null
 /* O escopo de rosa consegue acessar o de violeta */
