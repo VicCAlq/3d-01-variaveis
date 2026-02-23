@@ -36,14 +36,14 @@
 // Resposta
 /* 01 */ export let meuNome = "Felizberto Adalberto"
 /* 02 */ export const gatoRajado = "Kiki"
-/* 03 */ export let quantidadedebolos = 75
+/* 03 */ export let quantidadeDeBolos = 75
 /* 04 */ export let meusColegas = ["Fulado", "Ciclano", "Beltrano"]
 /* 05 */ export const conducao = "Onibus"
 /* 06 */ export class AlunoDoNave { constructor() {} }
 /* 07 */ export let golpeDoGoku = "Kamehameha"
 /* 08 */ export const tomJerry = "Tom e Jerry"
 /* 09 */ export const ehsobreisso = "E tá tudo bem"
-/* 10 */ export let meuendereço = { rua: "Avenida sei lá", numero: 123, bairro: "Rouxinol Goiaba"}
+/* 10 */ export let meuendereco = { rua: "Avenida sei lá", numero: 123, bairro: "Rouxinol Goiaba"}
 /* 11 */ export class OperacaoExplosiva { constructor () {} }
-/* 12 */ export class PersonagemFictício { constructor() {} }
+/* 12 */ export class PersonagemFicticio { constructor() {} }
 

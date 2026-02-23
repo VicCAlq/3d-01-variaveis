@@ -144,7 +144,7 @@ let escopo10 = false
 /* O escopo de jaiminho consegue acessar o de joaquim */
 let escopo11 = true
 /* O escopo de baltazar consegue acessar o de onofre */
-let escopo12 = false
+let escopo12 =  
 
 /* NÃO MUDAR NADA DESTA LINHA EM DIANTE */
 export {
