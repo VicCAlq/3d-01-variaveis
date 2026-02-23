@@ -1,9 +1,9 @@
 /** Assunto 02 - Escopo
- * Quaisquer valores nomeados que forem criados em um programa JavaScript existem em um 
- * determinado "escopo". Escopo é o termo que utulizamos para determinar a região 
+ * Quaisquer valores nomeados que forem criados em um programa JavaScript existem em um
+ * determinado "escopo". Escopo é o termo que utulizamos para determinar a região
  * do código onde um valor existe.
  *
- * Exemplos de valores nomeados são: variáveis, funções, objetos, classes, etc. Qualquer 
+ * Exemplos de valores nomeados são: variáveis, funções, objetos, classes, etc. Qualquer
  * coisa no código para o qual você dê um nome a sua escolha.
  *
  * Coisas como "if", "else", "switch", "return" não são valores, são palavras da sintaxe
@@ -12,18 +12,18 @@
  * Escopos são criados utilizando "chaves": { }
  * A chave de abertura "{" inicia o escopo
  * A chave de fechamento "}" encerra o escopo
- * 
- * Se um valor for criada dentro de um escopo, ele existe apenas até a chave 
+ *
+ * Se um valor for criada dentro de um escopo, ele existe apenas até a chave
  * de fechamento do escopo ao qual ele pertence. Exemplo:
  * {
  *   let bode = "Adalberto" <- "bode" é  criado aqui
- * } <- "bode" deixou de existir aqui 
+ * } <- "bode" deixou de existir aqui
  *
  * Tentar utilizar um valor fora de escopo resulta em erro:
  * {
  *   let bode = "Adalberto" <- "bode" é  criado aqui
  *   console.log(bode) <- Isso funciona normal
- * } <- "bode" deixou de existir aqui 
+ * } <- "bode" deixou de existir aqui
  * console.log(bode) <- Isso vai dar erro
  *
  * Escopos podem ter escopos internos. Não há um limite para isso.
@@ -53,7 +53,7 @@
  * console.log(comidaFavorita) <- Erro
  * console.log(bebidaFavorita) <- Erro
  *
- * Outra particularidade é que como um valor existe apenas dentro de seu 
+ * Outra particularidade é que como um valor existe apenas dentro de seu
  * próprio escopo, isso significa que em um escopo fora de onde o valor é acessível,
  * você pode utilizar o mesmo nome para um valor totalmente diferente:
  *
@@ -121,12 +121,12 @@
  * deixam de ser acessíveis
  */
 // Respostas
-/* 01: margarida */ let escopo01 = 0
-/* 02: jaiminho */  let escopo02 = 0
-/* 03: valentina */ let escopo03 = 0
-/* 04: maria */     let escopo04 = 0
-/* 05: jose */      let escopo05 = 0
-/* 06: belarmino */ let escopo06 = 0
+/* 01: margarida */ let escopo01 = 76
+/* 02: jaiminho */  let escopo02 = 93
+/* 03: valentina */ let escopo03 = 114
+/* 04: maria */     let escopo04 = 83
+/* 05: jose */      let escopo05 = 86
+/* 06: belarmino */ let escopo06 = 113
 
 /** Questões 07 a 12
  * No mesmo escopo da referência acima, indique com true (verdadeiro) ou false (falso)
@@ -134,17 +134,17 @@
  */
 // Respostas
 /* O escopo de margarida consegue acessar o de joao */
-let escopo07 = null
+let escopo07 = true
 /* O escopo de enzo consegue acessar o de valentina */
-let escopo08 = null
+let escopo08 = false
 /* O escopo de valentina consegue acessar o de magda */
-let escopo09 = null
+let escopo09 = false
 /* O escopo de rosa consegue acessar o de violeta */
-let escopo10 = null
+let escopo10 = false
 /* O escopo de jaiminho consegue acessar o de joaquim */
-let escopo11 = null
+let escopo11 = true
 /* O escopo de baltazar consegue acessar o de onofre */
-let escopo12 = null
+let escopo12 = false
 
 /* NÃO MUDAR NADA DESTA LINHA EM DIANTE */
 export {
