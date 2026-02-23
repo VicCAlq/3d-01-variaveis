@@ -122,7 +122,7 @@
  */
 // Respostas
 /* 01: margarida */ let escopo01 = 76
-/* 02: jaiminho */  let escopo02 = 93
+/* 02: jaiminho */  let escopo02 = 94
 /* 03: valentina */ let escopo03 = 114
 /* 04: maria */     let escopo04 = 83
 /* 05: jose */      let escopo05 = 86
