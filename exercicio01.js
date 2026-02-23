@@ -39,7 +39,7 @@
 /* 03 */ export let quantidadeDeBolos = 75
 /* 04 */ export let meusColegas = ["Fulado", "Ciclano", "Beltrano"]
 /* 05 */ export const conducao = "Ônibus"
-/* 06 */ export class alunoDoNave { constructor() {} }
+/* 06 */ export class AlunoDoNave { constructor() {} }
 /* 07 */ export let GolpeDoGoku = "Kamehameha"
 /* 08 */ export const tom&Jerry = "Tom e Jerry"
 /* 09 */ export const Eh_sobre_isso = "E tá tudo bem"
