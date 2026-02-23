@@ -44,5 +44,5 @@
 /* 08 */ export const tomEJerry = "Tom e Jerry"
 /* 09 */ export const eh_sobre_isso = "E tá tudo bem"
 /* 10 */ export let meuEndereco = { rua: "Avenida sei lá", numero: 123, bairro: "Rouxinol Goiaba"}
-/* 11 */ export class operacaoExplosiva { constructor () {} }
+/* 11 */ export class OperacaoExplosiva { constructor () {} }
 /* 12 */ export class PersonagemFicticio { constructor() {} }
