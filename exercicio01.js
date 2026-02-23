@@ -38,12 +38,12 @@
 /* 02 */ export const g@toRajado = "Kiki"
 /* 03 */ export let quantidade_de_bolos = 75
 /* 04 */ export let MeusColegas = ["Fulado", "Ciclano", "Beltrano"]
-/* 05 */ export const condução = "Ônibus"
+/* 05 */ export const conducao = "Ônibus"
 /* 06 */ export class alunoDoNave { constructor() {} }
-/* 07 */ export let GolpeDoGoku = "Kamehameha"
-/* 08 */ export const tom&Jerry = "Tom e Jerry"
+/* 07 */ export let golpeDoGoku = "Kamehameha"
+/* 08 */ export const tomEJerry = "Tom e Jerry"
 /* 09 */ export const Eh_sobre_isso = "E tá tudo bem"
-/* 10 */ export let meu-endereço = { rua: "Avenida sei lá", numero: 123, bairro: "Rouxinol Goiaba"}
-/* 11 */ export class OperaçãoExplosiva { constructor () {} }
+/* 10 */ export let meu_endereco = { rua: "Avenida sei lá", numero: 123, bairro: "Rouxinol Goiaba"}
+/* 11 */ export class OperacaoExplosiva { constructor () {} }
 /* 12 */ export class Personagem-Fictício { constructor() {} }
 
