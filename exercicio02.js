@@ -121,9 +121,9 @@
  * deixam de ser acessíveis
  */
 // Respostas
-/* 01: margarida */ let escopo01 = 0
-/* 02: jaiminho */  let escopo02 = 0
-/* 03: valentina */ let escopo03 = 0
+/* 01: margarida */ let escopo01 = 76
+/* 02: jaiminho */  let escopo02 = 93
+/* 03: valentina */ let escopo03 = 114
 /* 04: maria */     let escopo04 = 0
 /* 05: jose */      let escopo05 = 0
 /* 06: belarmino */ let escopo06 = 0
